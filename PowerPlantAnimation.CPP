@@ -2,7 +2,7 @@
 #include<iostream>
 #include<conio.h>
 #include<dos.h>
-void dam_door(); //dooropning
+void dam_door(); //door opning algo
 void dam_struct();//dam structure
 void turbine();//turbine structure
 void rect();//moving turbine
@@ -10,7 +10,7 @@ void arrow();//water flowing arrow
 void color();//animation color
 void watercolor();//water color after door opening
 void bulbglow();//bulb glowing after electricity generation
-void damdoorcol();//dam door color
+void damdoorcol();//color of dam door
 int page=0;
 main()
 {
